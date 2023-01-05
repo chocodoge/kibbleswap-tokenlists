@@ -4,8 +4,8 @@
   "keywords": ["doge", "defi", "kibbleswap", "woof woof", "tasty"],
   "version": {
     "major": 1,
-    "minor": 4,
-    "patch": 1
+    "minor": 5,
+    "patch": 0
   },
   "tokens": [
     {
@@ -15,6 +15,14 @@
       "name": "Kibble",
       "symbol": "KIB",
       "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x1e1026ba0810e6391b0F86AFa8A9305c12713B66/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0x8ffBD442F246964A0d2E87C9b2551095bdA6EEb3",
+      "decimals": 9,
+      "name": "Staked Kibble",
+      "symbol": "sKIB",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x8ffBD442F246964A0d2E87C9b2551095bdA6EEb3/logo.png"
     },
     {
       "chainId": 2000,
@@ -31,6 +39,14 @@
       "name": "Dogechain Token",
       "symbol": "DC",
       "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0x7B4328c127B85369D9f82ca0503B000D09CF9180/logo.png"
+    },
+    {
+      "chainId": 2000,
+      "address": "0xbA2fa659f475f69EeEFa245523DBa9C14BbA7163",
+      "decimals": 18,
+      "name": "CHEWY",
+      "symbol": "CHEWY",
+      "logoURI": "https://raw.githubusercontent.com/defigenie/kibbleswap-tokenlists/main/logos/0xbA2fa659f475f69EeEFa245523DBa9C14BbA7163/logo.png"
     },
     {
       "chainId": 2000,
